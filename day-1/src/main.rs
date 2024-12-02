@@ -15,12 +15,12 @@ fn res(arr1: &[i32], arr2: &[i32]) -> i32 {
 }
 
 // For part 1 answer, for with a - and abs
-fn abs(num: i32) -> i32 {
-    if num < 0 {
-        return -num;
-    }
-    return num;
-}
+//fn abs(num: i32) -> i32 {
+//    if num < 0 {
+//        return -num;
+//    }
+//    return num;
+//}
 
 fn main() {
     let input = "14832 78161
